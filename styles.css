@@ -1,0 +1,62 @@
+h5 {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+h3 {
+  font-family: 'Cuprum', sans-serif;
+}
+
+.body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-section {
+  background-color: #6f0000;
+  color: white;
+}
+
+.navbarimage {
+  border-radius: 50%;
+}
+
+#navbar {
+  padding: 2rem 3rem 1rem
+}
+
+.col-lg-6 {
+  padding: 2rem 3rem 5rem;
+}
+
+.row {
+  padding: 5rem 3rem 5rem;
+  line-height: 1.5;
+}
+
+#clients {
+  background-color: #ffa299;
+  padding: 2rem 3rem 1rem;
+  text-align: center;
+  color: white;
+}
+
+.col-lg-4 {
+  padding: 2rem 3rem 2rem;
+}
+
+#products {
+  text-align: center;
+  background-color: #b9ebcc;
+  padding: 2rem 3rem 2rem;
+}
+
+#customers {
+  padding: 2rem 3rem 5rem;
+  background-color: #d4f3ef;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  background-color: #562349;
+  padding: 2rem 3rem 2rem;
+}
